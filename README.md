@@ -25,11 +25,6 @@ Train each model using the grayscale images from the dataset and their correspon
 Fine-tune hyperparameters and optimize the models to achieve optimal performance.
 Consider using transfer learning if applicable, to leverage pre-trained models and accelerate training.
 
-Evaluation:
-
-Assess the performance of each model using metrics such as Mean Squared Error (MSE), Structural Similarity Index (SSI), and perceptual metrics like Perceptual Evaluation of Image Quality (PEIQ).
-Conduct qualitative analysis by visually inspecting the colorized images and comparing them with ground truth color images.
-
 Usage Instructions:
 
 Training:
