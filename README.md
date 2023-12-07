@@ -1,6 +1,6 @@
 # DSCI-6011-03-Deep-Learning
 
-Project Description: Image Colorization using Deep Learning Models
+Project: Image Colorization using Deep Learning Models
 
 Overview:
 The Image Colorization Deep Learning project aims to automatically add color to grayscale images using various deep learning architectures. The project explores and compares the performance of different models, including ResNet, Unet, GAN (Generative Adversarial Network), and a combination of Unet and GAN (UnetGan). The objective is to enhance grayscale images by predicting and applying realistic and aesthetically pleasing colors.
